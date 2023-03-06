@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Gouddi.
-- 👀 I’m interested in Competitive Programing. \ Video Game Development
 - 🌱 I’m currently learning C# Programming \ Unity 3D Game Development.
-- 📫 If you're interested you can send me an email at ahmed.gouddi@gmail.com
+- 📫 Email: ahmed.gouddi@gmail.com
